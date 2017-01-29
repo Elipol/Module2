@@ -1,5 +1,5 @@
 /**
- * Created by GVNcoder on 26.01.2017.
+ * Return result of integer devision and remainder 26.01.2017.
  */
 public class extratask_1 {
     public static void main(String[] args) {

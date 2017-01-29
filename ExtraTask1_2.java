@@ -1,5 +1,5 @@
 /**
- * Created by GVNcoder on 28.01.2017.
+ * Return summ of numeral of twochar number on 28.01.2017.
  */
 public class ExtraTask1_2 {
     public static void main(String[] args) {
